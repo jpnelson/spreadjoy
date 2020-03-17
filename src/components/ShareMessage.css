@@ -1,0 +1,3 @@
+.ShareMessage_TextArea {
+  margin: var(--grid) 0 calc(var(--grid) * 4) 0;
+}

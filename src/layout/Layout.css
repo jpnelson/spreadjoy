@@ -1,0 +1,7 @@
+.Cta {
+  margin: calc(var(--grid)) 0;
+}
+
+.Body {
+  margin: calc(var(--grid) * 4) 0;
+}

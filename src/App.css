@@ -1,16 +1,13 @@
+:root {
+  --grid: 8px;
+  --primary: #f9d423;
+}
+
 .App {
   text-align: center;
-}
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  width: 80vw;
+  max-width: 800px;
+  margin: calc(var(--grid) * 2) auto;
 }
 
 .App-header {
